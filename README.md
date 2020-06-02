@@ -49,13 +49,13 @@ The year 2020 motivated a lot of the organizations to spend more money on findin
 The business problem is having raw retail data from various sources and finding the opportunities to find insights that would help re-align the business for better growth.
 
 ## Detailed Project Report can be viewed at this link:
-<a href="https://nbviewer.jupyter.org/github/nitishbhardwaj1912/InsightsFromRetailDataRFM/blob/master/Nitish%20Bharadwaj_Project%20Report_FINDING%20INSIGHTS%20FROM%20RETAIL%20DATA.pdf">Project Report</a>
+<a href="https://nbviewer.jupyter.org/github/nitishbhardwaj1912/RetailDataInsights_RFM/blob/master/Nitish%20Bharadwaj_Project%20Report_FINDING%20INSIGHTS%20FROM%20RETAIL%20DATA.pdf">Project Report</a>
 
 ## Detailed Project Presentation can be viewed at this link:
-<a href="https://nbviewer.jupyter.org/github/nitishbhardwaj1912/InsightsFromRetailDataRFM/blob/master/Nitish%20Bhardwaj_Project%20Presentation_FINDING%20INSIGHTS%20FROM%20RETAIL%20DATA.pdf">Project Presentation</a>
+<a href="https://nbviewer.jupyter.org/github/nitishbhardwaj1912/RetailDataInsights_RFM/blob/master/Nitish%20Bhardwaj_Project%20Presentation_FINDING%20INSIGHTS%20FROM%20RETAIL%20DATA.pdf">Project Presentation</a>
 
 ## Project output, code and analysis performed can be viewed at this link:
-https://nitishbhardwaj1912.github.io/InsightsFromRetailDataRFM/
+https://nitishbhardwaj1912.github.io/RetailDataInsights_RFM/
 
 ## References:
 [1] "Bullseye", Dribbble, 2020. [Online]. Available: https://cdn.dribbble.com/users/2788963/screenshots/6836348/bullseyeloop.gif. [Accessed: 31- May- 2020].
